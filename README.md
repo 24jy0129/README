@@ -18,3 +18,6 @@ who is the greatest player in  the world right now?
 []  messi  
 [x]  ~~ronaldo~~messi
 
+|A|B|C|D|  
+|-|:-:|:-|-|  
+|あ|い|う|え|
