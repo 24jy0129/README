@@ -15,6 +15,6 @@ __ここがstrongタグで強調されます。__
  1. ronaldo
  1. sunil  
 who is the greatest player in  the world right now?  
--[] messi  
--[] ~~ronaldo~~messi
+-[]  messi  
+-[]  ~~ronaldo~~messi
 
