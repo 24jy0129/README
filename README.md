@@ -13,8 +13,8 @@ __ここがstrongタグで強調されます。__
  -要約をここに記する
  1. messi  
  1. ronaldo
- 1. sunil
-who is the greatest player in  the world right now?
--[] messi
+ 1. sunil  
+who is the greatest player in  the world right now?  
+-[] messi  
 -[] ~~ronaldo~~messi
 
