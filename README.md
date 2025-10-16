@@ -9,4 +9,6 @@
 [日本電子専門学校](https://www.jec.ac.jp/)　　
 ~~消しゴム~~
 __ここがstrongタグで強調されます。__
-
+<summary>
+  要約をここに記する
+</summary>
